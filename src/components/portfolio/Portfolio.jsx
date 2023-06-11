@@ -27,7 +27,7 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: 'Reminiscent',
+    title: 'Reminiscent, an app allowing Users to create custom candles.',
     github: 'https://github.com/veryharrywilz/phase-3-reminiscent-react-frontend',
     demo: 'https://youtu.be/K_uEeSlYOh0'
   },
@@ -38,20 +38,19 @@ const data = [
     github: 'https://github.com/B-Keshav/NYCleans',
     demo: 'https://youtu.be/RHoJySoRt-8'
   },
-  {
-    id: 5,
-    image: IMG5,
-    title: 'Synodic',
-    github: 'https://github.com/angpace/Synodic',
-    demo: 'https://dribbble.com/shots/16541289-Orion-UI-kit-Charts-templates-infographics-in-Figma'
-  },
-  {
-    id: 6,
-    image: IMG6,
-    title: 'SmoothieMaster',
-    github: 'https://github.com/angpace/smoothiemaster',
-    demo: 'https://dribbble.com/shots/15887665-Orion-UI-kit-Charts-templates-infographics-in-Figma'
-  }
+  // {
+  //   id: 5,
+  //   image: IMG5,
+  //   title: 'Synodic',
+  //   github: 'https://github.com/angpace/Synodic',
+    
+  // },
+  // {
+  //   id: 6,
+  //   image: IMG6,
+  //   title: 'SmoothieMaster',
+  //   github: 'https://github.com/angpace/smoothiemaster',
+  // }
 ]
 
 

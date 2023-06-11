@@ -4,8 +4,8 @@ import {BiCheck} from 'react-icons/bi'
 
 const Services = () => {
   return (
-    <section id='services'>
-      <h5>My Intrests and</h5>
+    <section id='interests'>
+      <h5>My Interests and</h5>
       <h2>Strengths</h2>
 
       <div className="container services__container">
@@ -88,15 +88,15 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon' />
+              <p>Playing Chess</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
               <p>Cooking and Baking</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
               <p>Hosting Dinner parties and Tea</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Playing Chess</p>
             </li>
           </ul>
         </article>
