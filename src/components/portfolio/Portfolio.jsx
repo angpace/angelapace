@@ -4,8 +4,6 @@ import IMG1 from '../../assets/kitchcode.jpg'
 import IMG2 from '../../assets/privee.png'
 import IMG3 from '../../assets/reminiscent.jpg'
 import IMG4 from '../../assets/NYClean.gif'
-import IMG5 from '../../assets/Synodic.gif'
-import IMG6 from '../../assets/Smoothie.gif'
 
 // DO NOT USE THE IMAGES IN PRODUCTION
 
