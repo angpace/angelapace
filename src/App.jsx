@@ -17,16 +17,16 @@ const App = () => {
         
         <Nav />
         <LazyLoad offset={25} once>
-        <About />
+            <About />
         </LazyLoad>
         <Experience />
         <Services />
         <LazyLoad offset={100} once>
-        <Portfolio />
-        </LazyLoad>
+            <Portfolio />
+            </LazyLoad>
         {/* <Testimonials /> */}
-        <Contact />
-        <Footer />
+            <Contact />
+            <Footer />
     </>
   )
 }
