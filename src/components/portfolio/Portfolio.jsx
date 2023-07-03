@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/kitchcode.jpg'
-import IMG2 from '../../assets/privee.png'
+import IMG1 from '../../assets/kitchcode.WebP'
+import IMG2 from '../../assets/privee.WebP'
 import IMG3 from '../../assets/reminiscent.jpg'
 import IMG4 from '../../assets/NYClean.gif'
 
