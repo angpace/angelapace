@@ -40,7 +40,7 @@ const About = () => {
           </div>
 
           <p>
-          Motivated Junior Software Engineer with a unique background as a 3 Michelin-starred Pastry Chef, bringing a strong work ethic, attention to detail, and a creative problem-solving approach to software development.          </p>
+          Motivated Software Engineer with a unique background as a 3 Michelin-starred Pastry Chef, bringing a strong work ethic, attention to detail, and a creative problem-solving approach to software development.          </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Connect</a>
         </div>

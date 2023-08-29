@@ -2,8 +2,9 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/kitchcode.WebP'
 import IMG2 from '../../assets/privee.WebP'
-import IMG3 from '../../assets/reminiscent.jpg'
+import IMG3 from '../../assets/reminiscent.WebP'
 import IMG4 from '../../assets/NYClean.gif'
+import IMG5 from '../../assets/Smoothie.gif'
 
 // DO NOT USE THE IMAGES IN PRODUCTION
 
@@ -36,19 +37,12 @@ const data = [
     github: 'https://github.com/B-Keshav/NYCleans',
     demo: 'https://youtu.be/RHoJySoRt-8'
   },
-  // {
-  //   id: 5,
-  //   image: IMG5,
-  //   title: 'Synodic',
-  //   github: 'https://github.com/angpace/Synodic',
-    
-  // },
-  // {
-  //   id: 6,
-  //   image: IMG6,
-  //   title: 'SmoothieMaster',
-  //   github: 'https://github.com/angpace/smoothiemaster',
-  // }
+  {
+    id: 5,
+    image: IMG5,
+    title: 'SmoothieMaster',
+    github: 'https://github.com/angpace/smoothiemaster',
+  }
 ]
 
 
