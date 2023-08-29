@@ -40,7 +40,7 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: 'SmoothieMaster',
+    title: 'SmoothieMaster, a drag and drop smoothie maker that gives nutritional value.',
     github: 'https://github.com/angpace/smoothiemaster',
   }
 ]
@@ -63,7 +63,13 @@ const Portfolio = () => {
               <h3>{title}</h3>
               <div className="portfolio__item-cta">
                 <a href={github} className='btn' rel="noreferrer" target='_blank'>Github</a>
-                <a href={demo} className='btn btn-primary' rel="noreferrer" target='_blank'>Live Demo</a>
+                {demo? 
+                  <a href={demo} className='btn btn-primary' rel="noreferrer" target='_blank'>Live Demo</a>
+                  : 
+                  <></>
+
+                }
+                
               </div>
             </article>
             )
