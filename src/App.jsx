@@ -14,7 +14,6 @@ const App = () => {
   return (
     <>
         <Header />
-        
         <Nav />
         <LazyLoad offset={25} once>
             <About />

@@ -23,7 +23,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>1+ Year Technology</small>
+              <small>2+ Year Technology</small>
             </article>
 
             <article className='about__card'>
@@ -40,7 +40,7 @@ const About = () => {
           </div>
 
           <p>
-          Motivated Software Engineer with a unique background as a 3 Michelin-starred Pastry Chef, bringing a strong work ethic, attention to detail, and a creative problem-solving approach to software development.          </p>
+          Associate Operations Engineer at Goodway Group with a unique background as a 3 Michelin-starred Pastry Chef. Bringing a strong work ethic, attention to detail, and a creative problem-solving approach to Technology.          </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Connect</a>
         </div>

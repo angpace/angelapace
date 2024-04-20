@@ -64,15 +64,8 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>Ruby on Rails</h4>
+                <h4>SQL</h4>
                 <small className='text-light'>Experienced</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>Ruby</h4>
-                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
@@ -85,8 +78,15 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>SQL</h4>
-                <small className='text-light'>Basic</small>
+                <h4>Ruby</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>Ruby on Rails</h4>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
