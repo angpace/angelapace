@@ -23,7 +23,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>2+ Year Technology</small>
+              <small>3+ Years in Technology</small>
             </article>
 
             <article className='about__card'>
@@ -35,13 +35,14 @@ const About = () => {
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>5+ Completed</small>
+              <small>6+ Completed</small>
             </article>
           </div>
 
           <p>
-          Associate Operations Engineer at Goodway Group with a unique background as a 3 Michelin-starred Pastry Chef. Bringing a strong work ethic, attention to detail, and a creative problem-solving approach to Technology.          </p>
-
+          Motivated Senior Operations Engineer with a unique background as a 3 Michelin-starred Pastry Chef, bringing a
+strong work ethic, attention to detail, and a creative problem-solving approach to operations and product
+development. </p>
           <a href="#contact" className='btn btn-primary'>Let's Connect</a>
         </div>
       </div>
