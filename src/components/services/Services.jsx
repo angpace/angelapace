@@ -21,19 +21,19 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Builds user experiences with a user-centric approach</p>
+              <p>Coursera Certified in Cybersecurity</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Testing and Debugging</p>
+              <p>QA Testing</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Familiarity with Version Control</p>
+              <p>Comfortable with relational Databases </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Follows best practices to create clean, well-structured code.</p>
+              <p>Writing clean, well-structured code with clear commit messages.</p>
             </li>
           </ul>
         </article>
@@ -50,11 +50,11 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Communication (Verbal and Non-verbal) with Empathy</p>
+              <p>Communication</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Adapatable to change</p>
+              <p>Adapatability</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
@@ -80,11 +80,11 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Created Foglia, a small-batch Kombucha brand</p>
+              <p>Watercolor Painting</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Building Foglias e-commerce website</p>
+              <p>Created Foglia, a small-batch Kombucha brand</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
