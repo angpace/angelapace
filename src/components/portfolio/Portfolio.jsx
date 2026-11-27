@@ -14,7 +14,6 @@ const data = [
     image: IMG1,
     title: 'Kitchen and Code, a blog about food and tech.',
     github: 'https://github.com/angpace/kitchenandcode',
-    demo: 'https://www.kitchenandcode.com/'
   },
   {
     id: 2,
