@@ -24,7 +24,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>3+ Years in Technology</small>
+              <small>4+ Years in Technology</small>
             </article>
 
             <article className='about__card'>
@@ -36,14 +36,12 @@ const About = () => {
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>6+ Completed</small>
+              <small>Over 20 Completed</small>
             </article>
           </div>
 
           <p>
-          Motivated Senior Operations Engineer with a unique background as a 3 Michelin-starred Pastry Chef, bringing a
-strong work ethic, attention to detail, and a creative problem-solving approach to operations and product
-development. </p>
+          Project Manager with a background in technical operations and engineering, focused on operational excellence, process improvement, and project execution. Experienced in coordinating cross-functional teams, establishing efficient workflows, and driving initiatives from planning through completion. </p>
           <a href="#contact" className='btn btn-primary'>Let's Connect</a>
         </div>
       </div>
