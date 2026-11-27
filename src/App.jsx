@@ -21,7 +21,7 @@ const App = () => {
         <Experience />
         <Services />
         <LazyLoad offset={100} once>
-            <Portfolio />
+            {/* <Portfolio /> */}
             </LazyLoad>
         {/* <Testimonials /> */}
             <Contact />

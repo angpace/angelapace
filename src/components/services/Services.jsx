@@ -11,13 +11,21 @@ const Services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>Web Development</h3>
+            <h3>Operations & Project</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Solid understanding of Web Development</p>
+              <p>Agile & Scrum Methodologies</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Jira & Workflow Management</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Project Planning & Execution</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
@@ -25,19 +33,49 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>QA Testing</p>
+              <p>Capacity Planning</p>
             </li>
-            <li>
+             <li>
               <BiCheck className='service__list-icon' />
-              <p>Comfortable with relational Databases </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Writing clean, well-structured code with clear commit messages.</p>
+              <p>Process Improvement</p>
             </li>
           </ul>
         </article>
         {/* END OF UI/UX */}
+        <article className="service">
+          <div className="service__head">
+            <h3>Technical & Automation</h3>
+          </div>
+
+          <ul className='service__list'>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>SQL & PostgreSQL</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>AI Tools & Prompt Engineering</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Zapier Workflow Automation</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Platform Administration</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Technical Troubleshooting</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Coursera Cybersecurity Certificate</p>
+            </li>
+             
+          </ul>
+        </article>
+        {/* WEB DEVELOPMENT */}
         <article className="service">
           <div className="service__head">
             <h3>Interpersonal Skills</h3>
@@ -46,7 +84,7 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Analytical thinking and Problem-Solving abilities</p>
+              <p>Analytical Thinking & Problem Solving</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
@@ -54,11 +92,11 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Adapatability</p>
+              <p>Adaptability</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Resolving conflicts with positivity and openness</p>
+              <p>Conflict Resolution</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
@@ -67,36 +105,6 @@ const Services = () => {
             <li>
               <BiCheck className='service__list-icon' />
               <p>Time Management</p>
-            </li>
-             
-          </ul>
-        </article>
-        {/* WEB DEVELOPMENT */}
-        <article className="service">
-          <div className="service__head">
-            <h3>Creative Outlets</h3>
-          </div>
-
-          <ul className='service__list'>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Watercolor Painting</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Created Foglia, a small-batch Kombucha brand</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Playing Chess</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Cooking and Baking</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Hosting Dinner parties and Tea</p>
             </li>
           </ul>
         </article>
