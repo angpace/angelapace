@@ -22,7 +22,7 @@ const Footer = () => {
       <div className="footer__socials">
         <a href="https://www.linkedin.com/in/angpace/"><FaLinkedinIn/></a>
         <a href="https://github.com/angpace"><FiGithub/></a>
-        <a href="https://www.kitchenandcode.com/"><BsFillPenFill/></a>
+        {/* <a href="https://www.kitchenandcode.com/"><BsFillPenFill/></a> */}
       </div>
 
       {/* <div className="footer__copyright">
