@@ -25,9 +25,9 @@ const Footer = () => {
         <a href="https://www.kitchenandcode.com/"><BsFillPenFill/></a>
       </div>
 
-      <div className="footer__copyright">
+      {/* <div className="footer__copyright">
         <small>&copy; Angela Pace.</small>
-      </div>
+      </div> */}
     </footer>
   )
 }

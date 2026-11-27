@@ -11,11 +11,11 @@
 }
 
 :root {
-  --color-bg:  #fbf8e4;
-  --color-bg-variant: #cff19180;
-  --color-primary:#6eb14def;
+  --color-bg:  #f1faee;
+  --color-bg-variant: #a8dadc;
+  --color-primary:#1d3557;
   --color-primary-variant:  #e91080;
-  --color-white: #1b611e;
+  --color-white: #457b9d;
   --color-light:  #98084e;
 
   --transition: all 400ms ease;
